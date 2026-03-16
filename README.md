@@ -1,5 +1,5 @@
 
-# Von Neumann Seed v6
+# Von Neumann Seed 
 
 A research prototype inspired by **John von Neumann’s theory of self-reproducing automata**.
 
@@ -208,7 +208,4 @@ Possible future extensions include:
 
 ---
 
-# Author
 
-Kaixin Liu  
-March 2026
